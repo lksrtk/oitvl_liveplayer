@@ -13,9 +13,11 @@ TouchDesignerで動作しますが，無料版では1280x1280以上の映像を�
 再生するメディアソースを用意し，出力先ごとにフォルダ分けしてください．  
 バーチャルライブだと，透過スクリーンに投影する用のメイン映像と，左右に投影する用のサブ映像がそれぞれあるかもしれません．  
 キューリストにあるキュー名でファイルを認識するので，同時に流す映像はキュー名とファイル名を統一してください．  
+![フォルダ構成](github.com/lksrtk/oitvl_liveplayer/blob/master/image/folder.JPG)
 
 
 画面と機能の説明です．  
+![操作画面](github.com/lksrtk/oitvl_liveplayer/blob/master/image/ui.JPG)
 
 
 ①パフォーマンスモニタ  
